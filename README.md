@@ -3,9 +3,6 @@
 This project is an end‑to‑end **Hollywood Box Office Analytics Dashboard** built using Excel and Power Query.  
 It analyzes worldwide, domestic, and international movie revenues, budgets, genres, distributors, and runtime trends for the highest‑grossing Hollywood films.
 
-Dataset Source/Credit:  
-Custom curated dataset based on publicly available box‑office records.
-
 ---
 
 ## 📊 Project Overview
